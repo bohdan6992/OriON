@@ -1,0 +1,12 @@
+{
+  "strategies_repo": "https://github.com/bohdan6992/OriON-strategies.git",
+  "strategies_branch": "main",
+
+  "results_repo": "https://github.com/bohdan6992/OriON-stats.git",
+  "results_branch": "main",
+
+  "results_layout": "root",
+  "results_subdir": "",
+
+  "use_clone_swap": true
+}
