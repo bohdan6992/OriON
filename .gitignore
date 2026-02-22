@@ -42,3 +42,6 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+# local vendored libs (private)
+vendor/
